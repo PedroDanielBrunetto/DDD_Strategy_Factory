@@ -1,0 +1,9 @@
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\bin\Debug\StorageService.Service.dll
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\bin\Debug\StorageService.Service.pdb
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\bin\Debug\StorageService.Domain.dll
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\bin\Debug\StorageService.Domain.pdb
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\obj\Debug\StorageService.Service.csproj.AssemblyReference.cache
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\obj\Debug\StorageService.Service.csproj.CoreCompileInputs.cache
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\obj\Debug\StorageService.Service.csproj.CopyComplete
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\obj\Debug\StorageService.Service.dll
+C:\All-Projects\DDD_Strategy_Factory\DrivenDesign_Strategy_Factory\StorageService.Service\obj\Debug\StorageService.Service.pdb
